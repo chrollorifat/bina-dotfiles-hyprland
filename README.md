@@ -4,7 +4,7 @@
 <div align="left">
 <br>
   <a href="#packages"><kbd> <br> Packages <br> </kbd></a>&ensp;&ensp;
-  <a href="#showcase"><kbd> <br> Schowcase <br> </kbd></a>&ensp;&ensp;
+  <a href="#showcase"><kbd> <br> Showcase <br> </kbd></a>&ensp;&ensp;
   <a href="#installation"><kbd> <br> Installation <br> </kbd></a> <br>
 </div>
 
@@ -25,11 +25,12 @@ list of main programs, applications, tools and themes that I use for my rice
 | color theme         | [pywal](https://github.com/dylanaraps/pywal)
 | terminal emulator   | [kitty](https://github.com/kovidgoyal/kitty)
 | shell               | [zsh](https://github.com/ohmyzsh)
-| fetch displayer     | [neofetch](https://github.com/dylanaraps/neofetch)
+| fetch displayer     | [fastfetch](https://github.com/fastfetch-cli/fastfetch) (or [neofetch](https://github.com/dylanaraps/neofetch))
 | resource monitor    | [btop](https://github.com/aristocratos/btop)
 | bar                 | [waybar](https://github.com/Alexays/Waybar)
 | logout menu         | [wlogout](https://github.com/ArtsyMacaw/wlogout)
 | lockscreen          | [hyprlock](https://github.com/hyprwm/hyprlock)
+| idle daemon         | [hypridle](https://github.com/hyprwm/hypridle)
 | app launcher        | [wofi](https://hg.sr.ht/~scoopta/wofi)
 | wallpaper daemon    | [swww](https://github.com/LGFae/swww)
 | screenshot tool     | [grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast)
@@ -104,6 +105,6 @@ Hope you enjoy it :3
 
 ## Installation
 
-See the [wiki](https://github.com/LierB/dotfiles/wiki/Installation) on how to manually install it yourself.
+See the [install guide](https://github.com/LierB/dotfiles/blob/master/installation.md) on how to manually install this rice yourself.
 
-An automatic install script will follow for you.
+An automatic install script will follow.
